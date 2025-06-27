@@ -1,5 +1,18 @@
+@font-face {
+    font-family: 'Lemon Tueasday';
+    src: url('lemon-tueasday.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gill Sans';
+    src: url('gill-sans.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -7,6 +20,7 @@ body {
 }
 
 h1 {
+    font-family: 'Lemon Tueasday';
     text-align: center;
     font-size: 30px;
     padding-top: 35px;
@@ -23,6 +37,7 @@ h1 {
 }
 
 .container h1 {
+    font-family: 'Gill Sans', sans-serif;
     font-size: 20px;
     text-align: left;
     font-weight: normal;
@@ -46,7 +61,7 @@ h1 {
 .red {
     color: red;
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Gill Sans', sans-serif;
 }
 
 .back-button {
@@ -54,13 +69,15 @@ h1 {
     top: 20px;
     left: 20px;
     display: flex;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .back-button a {
     background-color: #c20000;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 5px 10px;
     cursor: pointer;
     font-size: 14px;
@@ -84,10 +101,11 @@ h1 {
     background-color: #007BFF;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 10px 15px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 12px;
+    font-weight: bold;
     transition: background-color 0.3s;
 }
 

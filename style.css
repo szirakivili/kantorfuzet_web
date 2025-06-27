@@ -1,7 +1,21 @@
+/* lemon-tueasday.otf betűtípus beágyazása */
+@font-face {
+    font-family: 'Lemon Tueasday';
+    src: url('lemon-tueasday.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gill Sans';
+    src: url('gill-sans.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   margin: 0;
   height: 100vh;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   background-image: url('hatter.jpg');
   backdrop-filter: brightness(0.4) blur(2px);
   display: flex;
@@ -13,6 +27,9 @@ body {
 }
 
 header {
+  font-family: 'Lemon Tueasday';
+  color: white;
+  font-size: 5rem;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -77,6 +94,10 @@ header {
 }
 
 @media (max-width: 1000px) {
+  header {
+    font-size: 8rem;
+  }
+
   .dropbtn {
       font-size: 4rem;
       padding: 20px;
