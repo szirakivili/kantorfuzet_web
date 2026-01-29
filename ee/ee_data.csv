@@ -1,28 +1,28 @@
-﻿sorszám;cím;alcím;ünnepkör;kategória;előjegyzés;versszakok száma
-1;Kiáltsunk Krisztus hívei;Himnusz Krisztus hármas eljöveteléről;Advent;népének;2#;9
-2;Népek megváltó Istene;;Advent;népének;1#;8
+﻿sorszám;cím;alcím;ünnepkör/téma;kategória;előjegyzés;versszakok száma
+1;Kiáltsunk Krisztus hívei;Himnusz Krisztus hármas eljöveteléről;Advent;himnusz;2#;9
+2;Népek megváltó Istene;;Advent;himnusz;1#;8
 3;Harmatozzatok, égi magasok;;Advent;népének;1b;5
 4;Hozzád emelem szómat, Istenem;;Advent;népének;2#;5
-5;Küldé az Úristen;;Advent;népének;3b;10
+5;Küldé az Úristen;;Advent;szekvencia;3b;10
 6;Ó jöjj, ó jöjj Üdvözítő;;Advent;népének;1b;4
 7;Ébredj, ember, mély álmodból;;Advent;népének;2b;4
-8;Hív minket most egy tiszta szó;;Advent;népének;1b;5
-9;Csillagoknak teremtője;;Advent;népének;1b;7
+8;Hív minket most egy tiszta szó;;Advent;himnusz;1b;5
+9;Csillagoknak teremtője;;Advent;himnusz;1b;7
 10;Az Úristen Ádám atyánknak;;Advent;népének;1b;8
 11;E világot Ősatyánk elveszté;;Advent;népének;-;5
 12;Bűnös néped sírva kiált hozzád;;Advent;népének;3b;3
-13;Íme, kedveseim;;Advent;népének;2#;5
-14;Harmatozzatok, magasságos egek;;Advent;népének;4#;10
+13;Íme, kedveseim;;Advent;processziós ének;2#;5
+14;Harmatozzatok, magasságos egek;;Advent;processziós ének;4#;10
 15;Ó jöjj, ó jöjj el, Bölcsesség;;Advent;népének;1#;7
 16;Ó, fényességes szép Hajnal;;Advent;népének;-;4
 17;Ó, fényességes szép Hajnal;;Advent;népének;-;1
 18;Ó, fényességes szép Hajnal;;Advent;népének;-;1
-19;Üdvözlégy, szent Szűz;;Advent;népének;2#;7
+19;Üdvözlégy, szent Szűz;;Advent, Ádvent 4. vasárnapja, Roráte misék;népének, offertórium parafrázis;2#;7
 20;Menj el sietséggel;;Advent;népének;1b;11
 21;Ave Maria, Istennek Anyja;;Advent;népének;2b;3
 22;Serkenj, lelkem, mély álmodból;;Advent;népének;1b;5
-23;Ahol a napnak fénye kél;;Karácsony;népének;1#;8
-24;Világmegváltó Krisztusunk;;Karácsony;népének;1b;7
+23;Ahol a napnak fénye kél;;Karácsony;himnusz;1#;8
+24;Világmegváltó Krisztusunk;;Karácsony;himnusz;1b;7
 25;Gyermek születék Betlehemben;;Karácsony;népének;1#;6
 26;Dicsőség mennyben az Istennek!;;Karácsony;népének;-;5
 27;Ím az Úrnak nagy neve;;Karácsony;népének;3b;3
@@ -47,11 +47,72 @@
 46;Midőn a Szűz magzatát;;Karácsony;népének;1b;5
 47;A szép szűz Mária;;Karácsony;népének;3b;3
 48;Megszületett már;;Karácsony;népének;2#;12
-49;Íme, egykor Szent István;December 26. - Szent István első vértanú;Karácsony;népének;-;4
-50;Szent Jánosnak napját;December 27. - Szent János apostol és evangélista;Karácsony;népének;2b;5
-51;Köszöntünk, kisded vértanúk;December 28. - Aprószentek;Karácsony;népének;3b;3
-52;Felragyogott már;Szent Család ünnepe;Karácsony;népének;-;5
-53;Az esztendő fordulóján;December 31. - Szent I. Szilveszter pápa;Karácsony;népének;3b;5
-54;Szűz Mária e világra nékünk;Január 1. - Karácsony nyolcada, Szűz Mária Isten anyja;Karácsony;népének;3b;4
-55;Ó szép Jézus, ez új esztendőben;Január 1. - Karácsony nyolcada, Szűz Mária Isten anyja;Karácsony;népének;3b;3
-56;Szép kelet, szép nap;Január 1. - Karácsony nyolcada, Szűz Mária Isten anyja;Karácsony;népének;1#;3
+49;Íme, egykor Szent István;;Karácsony, December 26. - Szent István első vértanú;népének;-;4
+50;Szent Jánosnak napját;;Karácsony, December 27. - Szent János apostol és evangélista;népének;2b;5
+51;Köszöntünk, kisded vértanúk;;Karácsony, December 28. - Aprószentek;népének;3b;3
+52;Felragyogott már;;Karácsony, Szent Család ünnepe;népének;-;5
+53;Az esztendő fordulóján;;Karácsony, December 31. - Szent I. Szilveszter pápa;népének;3b;5
+54;Szűz Mária e világra nékünk;;Karácsony, Január 1. - Szűz Mária Isten anyja;népének;3b;4
+55;Ó szép Jézus, ez új esztendőben;;Karácsony, Január 1. - Szűz Mária Isten anyja;népének;3b;3
+56;Szép kelet, szép nap;;Karácsony, Január 1. - Szűz Mária Isten anyja;népének;1#;3
+57;Gonosz Heródes irigyen;;Vízkereszt;himnusz;1#;5
+58;Ó, mily fényes ez a csillag;;Vízkereszt;népének;1b;3
+59;Az isteni gyermeket;;Vízkereszt;népének;1b;5
+60;Fényességes ez a mai nap;;Vízkereszt;népének;3#;5
+61;János áll a part felett;;Vízkereszt;népének;1b;3
+62;Itt az alkalmas szent idő;;Nagyböjt;himnusz;1#;9
+63;Mi gyarló emberek;;Nagyböjt;népének;1b;7
+64;Hamvazkodjál, hívő lélek;Hamvazási ének;Nagyböjt;népének;3b;5
+65;Bűnbánóknak menedéke;;Nagyböjt;népének;1#;4
+66;Bűnös lelkek, tisztulásra;;Nagyböjt;népének;3b;3
+67;Térj meg, keresztény;;Nagyböjt;népének;1b;3
+68;Jézus Krisztus, az Atya Igéje;;Nagyböjt;népének;2b;5
+69;Ó, Teremtőnk, hallgass minket;;Nagyböjt;himnusz;1#;5
+70;Ne szállj perbe énvelem;;Nagyböjt;népének;2#;6
+71;Könyörülj, Istenem, én bűnös lelkemen;;Nagyböjt;népének;1b;8
+72;Ne hagyj elesnem, felséges Isten;;Nagyböjt;népének;3b;4
+73;Seregeknek hatalmas nagy királya;;Nagyböjt;népének;2b;3
+74;Jaj énnekem, jaj szomorú fejemnek;;Nagyböjt, Szenvedés ideje;népének;2b;5
+75;Énértem haldokló;;Nagyböjt, Szenvedés ideje;népének;1b;2
+76;Világmegváltó Jézus;;Nagyböjt, Szenvedés ideje;népének;1#;3
+77;Mélyből száll fel a sóhaj;;Nagyböjt;népének;1b;2
+78;Király zászlói lengenek;;Nagyhét, Szenvedés ideje;himnusz;1#;10
+79;Királyi zászló jár elől;;Nagyhét, Szenvedés ideje;himnusz;3b;7
+80;Buzgó szívvel ünnepeljük;;Szenvedés ideje;népének;3b;3
+81;Hogyha hozzád járulunk;;Szenvedés ideje;népének;3b;4
+82;Keresztények, sírjatok;;Nagyhét, Szenvedés ideje;népének;2#;5
+83;A megváltó szent kínhalál;;Nagyhét, Szenvedés ideje;népének, himnusz;3b;4
+84;Jézus, világ Megváltója;;Nagyhét, Szenvedés ideje;népének;1b;6
+85;Ó, Jézus, Jézus;;Nagyhét, Szenvedés ideje;népének;1b;8
+86;Szent arcod ékessége;;Nagyhét, Szenvedés ideje;népének;2b;2
+87;Az Atyának egy Fiát;;Szenvedés ideje;népének;1b;12
+88;Én nemzetem, ó én népem;;Nagyhét, Szenvedés ideje;népének;2#;10
+89;Megváltó Királyunk elébe megyünk;;Nagyhét;népének;2#;7
+90;Áll a gyötrött Istenanya;Stabat Mater dolorosa;Fájdalmas Anya;szekvencia;2#;20
+91;A keresztfához megyek;;Nagyhét, Fájdalmas Anya;népének;2#;4
+92;Keservesen siratja Mária fiát;;Fájdalmas Anya;népének;1#;3
+93;Jaj, áldott méhemnek;;Fájdalmas Anya;népének;-;9
+94;Hol vagy, édes Jézus;;Fájdalmas Anya;népének;1b;7
+95;Gyászba borult;;Szenvedés ideje, Fájdalmas Anya;népének;3b;3
+96;Az Isten igaz napja ez;;Húsvét;himnusz;1#;10
+97;Üdvözlégy, fényes Nap;Himnusz az Úr húsvéti győzelméről;Húsvét;himnusz;3#;5
+98;Krisztus feltámada mind ő nagy kínjából;;Húsvét;népének;1b;2
+99;Feltámadt Krisztus e napon;;Húsvét;népének;1b;20
+100;Feltámadt Krisztus e napon;2. változat;Húsvét;népének;1b;20
+101;Örvendjetek, angyalok;;Húsvét;népének;1b;4
+102;Jézus, megváltó Istenünk;;Húsvét;népének;3#;4
+103;Úr Krisztus feltámadott;;Húsvét;népének;1b;4
+104;Krisztus, az Úr feltámadott;;Húsvét;népének;3#;5
+105;Feltámadt már dicsőségben;;Húsvét;népének;1b;3
+106;Örvendetes napunk támadt;;Húsvét;népének;-;5
+107;Krisztus feltámadott! Halljátok meg asszonyok;;Húsvét;népének;2b;4
+108;Feltámadott Krisztus megváltásunkra;;Húsvét;népének;2#;6
+109;Ó ifjak, lányok, gyermekek;;Húsvét;népének;3#;4
+110;Üdvözítőnk feltámadott;;Húsvét;népének;3#;5
+111;Krisztus, virágunk;;Húsvét;népének;3b;6
+112;Dicsőség, szent áldás, tisztesség;;Húsvét;népének;1b;4
+113;Húsvét van, feltámadt az Úr;;Húsvét;népének;3b;2
+114;Alleluja, Nagyjóvoltát;;Húsvét;népének;1b;2
+115;Templomodba jöttünk;;Húsvét;népének;1b;6
+116;Szent Magdolna elmene;;Húsvét;népének;-;15
+117;Örvendezzél, boldog Szűz;Húsvéti Mária-ének;Húsvét;népének;2b;6
