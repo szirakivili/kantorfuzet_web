@@ -3763,25 +3763,629 @@
  Omne delectamentum in se habentem. (Alleluja)
 
 ========================================================================
-ÉE/156: Ó, üdvösséges áldozat
+ÉE/156: Ó, üdvösséges áldozat (O salutaris Hostia)
 
-1. (latin)
+1. (1. latin)
  O salutaris ostia,
  quæ cæli pandis ostium:
  bella premunt hosilia,
  da robur, fer auxilium!
-1. (magyar)
+2. (1. magyar)
  Ó üdvösséges ozat,
  ki mennynek tárod ajtaját,
  harcot harcolva envedünk,
  Úr Jézus, kérünk, adj erőt!
-2. (latin)
+3. (2. latin)
  Uni trinoque omino
  sit sempiterna gloria,
  qui vitam sine ermino
  nobis donet in patria.
-2. (magyar)
+4. (2. magyar)
  Egy-Háromságos Istenünk,
  most dicsőítünk tégedet,
  ki országodban minekünk
  adj mindörökre életet!
+
+========================================================================
+ÉE/157: Imádlak és áldlak (Adoro te devote)
+
+1. (1. latin)
+ Adoro te devote, latens Deitas,
+ quæ sub his figuris vere latitas.
+ Tibi se cor meum totum subjicit,
+ quia te contemplans totum deficit.
+2. (1. magyar)
+ Imádlak és áldlak, Isten, rejtelem!
+ Kenyér- és borszínben titkon vagy jelen.
+ Néked szívem, lelkem átadja magát,
+ mert téged szemlélve elveszti magát.
+3. (2. latin)
+ Visus tactus, gustus in te fallitur,
+ sed auditu solo tuto creditur:
+ Credo, quidquid dixit Dei Filius,
+ nil hoc verbo Veritatis verius.
+4. (2. magyar)
+ Látás, ízlés, érzék megcsalódhatik,
+ de a hallás rólad hittel biztosít:
+ Hiszem azt, mit hinnem Isten Fia szab,
+ Igéd igazánál mi van igazabb?!
+5. (3. magyar)
+ A keresztfán ejtéd isten-voltodat,
+ itt a színek ejtik emberarcodat,
+ de én inda ettőt hiszem s vallhatom,
+ kérve, amit érta bűnbánó lator.
+6. (4. magyar)
+ Ahogy Tamás átta, nem látom sebed,
+ mégis Isteemek vallak tégedet.
+ Add, hogy e oban hinni tudjalak,
+ tebenned reéljek, s téged vágyjalak.
+7. (5. magyar)
+Urunk haláára emlékeztető
+ áldott Kenyér, lő, s embert éltető!
+ Add, hogy jen elem belőled csupán,
+ s jóízét teenned ne veszítse szám!
+8. (6. magyar)
+ Kegyes peliánom, Uram Jézusom!
+ Szennyes vagyok, enem véreddel mosom.
+ Elég volna egy csepp, hogyha hullna rá:
+ világ minden űnét meggyógyítaná...
+9. (7. latin)
+ Jesu, quem velatum nunc aspicio,
+ oro fiat illud, quod tam sitio:
+ ut te revelata cernens facie,
+ visu sim beatus tuæ gloriæ.
+ Amen
+10. (7. magyar)
+ Jézus, kit csak rejtve szemlélhetek itt!
+ Mikor lesz, hogy szomjas vágyam jóllakik?
+ Hogy majd fátyol nélkül nézve arcodat,
+ leljem szent fényedben boldogságomat! Amen
+
+========================================================================
+ÉE/158: Adoremus in aeternum
+
+1. (latin)
+ Adoremus
+ in æternum
+ sanctissimum
+ Sacramentum!
+2. (magyar)
+ Imádjuk örökké
+ a legszentebb Szentséget!
+
+========================================================================
+ÉE/159: Ave verum Corpus
+
+1. (latin)
+ Ave verum Corpus natum de Maria Virgine.
+ Vere passum immolatum in cruce pro homine.
+ Cujus latus perforatum fluxit aqua et sanguine.
+ Esto nobis prægustatum mortis in examine.
+ O Jesu dulcis! O Jesu pie!
+ O Jesu fili Mariæ.
+2. (magyar)
+ Áldott legyél valódi Test, Máriától született;
+ Mindnyájunkért a keresztfán valóban kínt szenvedett.
+ Kinek átszúrt oldalából víz és vérfolyam eredt,
+ haldoklásom kapujában, kérlek, hadd ízleljelek!
+ Ó, áldott Jézus! Jóságos Jézus, ó, Jézus, Mária fia!
+
+========================================================================
+ÉE/160: Ó, szentséges lakoma
+
+1. Ó szentséges lakoma!Krisztust vesszük rajta;
+ felidézzük szenvedésének emlékét;
+ bensőnket kegyelem tölti el;a jövendő dicsőség záloga nekünk adatik, alleluja.
+
+========================================================================
+ÉE/161: Leborulva áldlak
+
+1. Leborulva áldlak, láthatatlan Istenség,
+ kenyér- és borszínben elrejtezett emberség!
+ Noha itt nem láthat, meg nem tapasztalhat
+ az emberi gyengeség.
+2. Isteni erődet elrejtéd a keresztfán,
+ testi gyarlóságnak homályával takarván,
+ itt emberi tested előlünk elrejted
+ színek alatt titkolván.
+3. Noha Szent Tamással sebed helyét nem látom,
+ Uram, igaz hittel jelenléted megvallom,
+ e szent hitben tarts meg, szent színedet add meg
+ égben egykor meglátnom!
+4. Váltságomnak ára, lankadt szívem ereje,
+ szegény bűnös lelkem megtisztító fürdője,
+ szomjú, fáradt lelkem megvigasztalója,
+ üdvösségem záloga!
+
+========================================================================
+ÉE/162: Üdvözlégy, Krisztusnak
+
+1. Üdvözlégy, Krisztusnak drága szent teste!
+ Áldott légy, Jézusnak piros szent vére!
+ Ó, mily áldott vagy, Oltáriszentség,
+ angyali drága vendégség!
+2. Üdvözlégy, nagy szentség, élet adója!
+ Mi bűnös lelkünknek megorvoslója!
+ Ó, mily áldott vagy, Oltáriszentség,
+ angyali drága vendégség!
+3. Üdvözlégy, nagy szentség, világ váltsága!
+ Emberi nemzetnek fő boldogsága!
+ Ó, mily áldott vagy, Oltáriszentség,
+ angyali drága vendégség!
+4. Üdvözlégy, nagy szentség, lelkünk vendége!
+ Mennyei karoknak gyönyörűsége!
+ Ó, mily áldott vagy, Oltáriszentség,
+ angyali drága vendégség!
+
+========================================================================
+ÉE/163: Itt jelen vagyon
+
+1. Itt jelen vagyon az Istennek Fia,
+ itt jelen vagyon feláldozott Bárány,
+ itt jelen vagyon erős, igaz Isten:
+ a Jézus Krisztus.
+2. Itt jelen vagyon mi édes Teremtőnk,
+ itt jelen vagyon a mi közbenjárónk,
+ itt jelen vagyon Vigasztaló társunk:
+ a Jézus Krisztus
+3. Itt jelen vagyon Út, Igazság, Élet,
+ itt jelen vagyon a mennyei Fölség
+ itt jelen vagyon fényes Világosság:
+ a Jézus Krisztus.
+4. Itt jelen vagyon váltságunknak Napja,
+ itt jelen vagyon bűnünk megrontója,
+ itt jelen vagyon szeretetnek lángja:
+ a Jézus Krisztus.
+5. Itt jelen vagyon a mi Vígasságunk,
+ itt jelen vagyon Őrizőnk, Oltalmunk,
+ itt jelen vagyon lelki bátorítónk:
+ a Jézus Krisztus.
+6. Adja minékünk az ő szent országát,
+ hogy megláthassuk szentséges lakását,
+ angyali karból tiszta szép orcáját,
+ és ő szent Atyját. Amen
+
+========================================================================
+ÉE/164: Imádlak, nagy Istenség
+
+1. Imádlak, nagy Istenség,
+ Test s vér, titkos mély Szentség,
+ leborulva.
+ Itt van Isten, s emberség,
+ véghetetlen nagy Fölség föláldozva.
+2. Üdvözlégy, te szent manna,
+ ennél többet ki adna?
+ nincs mód benne.
+ Ez az égi nagy Jóság,
+ a teljes Szentháromság
+ nagy kegyelme.
+3. Szent testével így táplál,
+ hogy ne ártson a halál,
+ mily kegyesség!
+ Szent vérével harmatoz,
+ így szelídít magához
+ ez Istenség.
+4. Szállj le hozzám, szent Kenyér,
+ jöjj, ártatlan drága Vér,
+ szánd lelkemet!
+ Bár hajlékom nem méltó,
+ elég tőled csak egy szó,
+ vedd szívemet!
+
+========================================================================
+ÉE/165: Áldjad, ember, e nagy jódat
+
+1. Áldjad, ember, e nagy jódat,
+ kenyérszínben Megváltódat!
+ Itt jelen van szent testével édes Jézus,
+ jelen vagyon szent vérével áldott Jézus.
+2. Itt az Isten gazdagsága,
+ bűnös lelkek nagy váltsága,
+ minden jónak nagy bősége, édes Jézus,
+ gyarló szívek erőssége, áldott Jézus.
+3. Itt az égnek megnyitója,
+ kegyelemnek meghozója,
+ egész világ drága díja, édes Jézus,
+ az Istennek örök Fia, áldott Jézus.
+4. Nem csak jel ez, nem csak emlék:
+ valóságos szent jelenlét!
+ Itt van köztünk tested, véred, édes Jézus,
+ itt van isten-emberséged, áldott Jézus.
+5. Kérjük, adja ránk áldását,
+ irgalmának kútforrását,
+ legyen velünk a végórán édes Jézus,
+ s üdvözítsen holtunk után, áldott Jézus.
+
+========================================================================
+ÉE/166: Krisztus teste és szent vére
+
+1. Krisztus teste és szent vére, angyaloknak étele
+ elevenen van itt jelen a kenyér- és borszínben.
+ Boruljunk le és rettegve imádjuk e Fölséget,
+ az Oltáriszentséget!
+2. Bár e csodát, hitünk titkát elménk föl nem foghatja,
+ de biztosít az igaz hit, melyre Jézus taníta.
+ Boruljunk le és rettegve imádjuk e Fölséget,
+ az Oltáriszentséget!
+3. A keresztfán haldokolván rejlett csak az istenség,
+ itt elrejtve és elfedve istenség és emberség.
+ Boruljunk le és rettegve imádjuk e Fölséget,
+ az Oltáriszentséget!
+4. Orvosságát, tisztulását lelkünk itt feltalálja,
+ e nagy Szentség az üdvösség bőséges kútforrása.
+ Boruljunk le és rettegve imádjuk e Fölséget,
+ az Oltáriszentséget!
+5. Szelíd Bárány! a keresztfán áldozatunk te lettél,
+ és ezáltal szent Atyáddal nekünk békét szereztél.
+ Boruljunk le és rettegve imádjuk e Fölséget,
+ az Oltáriszentséget!
+
+========================================================================
+ÉE/167: Ó, ki ez oltáron
+
+1. Ó ki ez oltáron kenyér színe alatt,
+ a tiszta ostyának fehérsége alatt,
+ fölséges Úristen, el vagy rejtezkedve csodálatosképpen!
+2. Testi szemeimmel noha nem láthatlak,
+ de mindazonáltal igazán imádlak,
+ téged Teremtőmnek, Istenemnek vallak,
+ és Uramnak mondlak.
+3. Drága sebeidbe rejtem sok vétkemet,
+ szent véred harmatja mossa meg lelkemet,
+ hogy szent színed előtt tisztán megjelenjek,
+ s így kegyelmet nyerjek!
+4. Ó angyali étek, tápláljad lelkemet!
+ Ó, mennyei ital, vigasztald szívemet!
+ S legfőképp, ha majdan közelget halálom:
+ légy vigasztalásom!
+
+========================================================================
+ÉE/168: Zálogát adtad, ó, Jézus
+
+1. Zálogát adtad, ó Jézus, örök szeretetednek,
+ rendelvén e nagy Szentséget, és adván tieidnek:
+ hogy teveled egyesüljünk, s téged viszontszeressünk.
+ Örök hála és imádás legyen azért nevednek!
+2. Irgalmadban nem vizsgáltad a mi gyarlóságunkat,
+ és ellened elkövetett sok hálátlanságunkat.
+ Megmenteni így akartál, azért értünk meghaltál,
+ eltörölvén a keresztfán régi adósságunkat.
+3. S hogy halálod szent emlékét mindennap megülhessük,
+ hagytad ezt a nagy Szentséget, hogy magunkhoz vehessük.
+ Csodálatos kincset adtál, és közöttünk maradtál:
+ véghetetlen jóságodért add, hogy mindig szeressünk!
+
+========================================================================
+ÉE/169: Égből szállott szent kenyér
+
+1. Égből szállott szent kenyér,
+ értünk ontott drága vér:
+ hittel áldunk és imádunk,
+ bár az elme föl nem ér.
+2. Véghetetlen Istenség,
+ szerető nagy kegyesség!
+ Az oltáron velünk áldjon
+ tégedet a föld s az ég.
+3. Ó mennyei seregek,
+ velünk egyesüljetek!
+ Tiszta lelkek, az Istennek
+ irgalmáról zengjetek!
+4. Nap, hold, s fényes csillagok,
+ imádságra gyúljatok!
+ Hitünk fénye őt dicsérje,
+ kit ragyogva áldotok.
+5. Legyen egy szív, egy lélek
+ azokban, kik dicsérnek;
+ ó nagy Isten, e szentségben
+ nyerjék meg, mit remélnek!
+6. Reménységünk csak te vagy,
+ Jézus, kérünk, el ne hagyj:
+ légy vezérünk, s hogy célt érjünk
+ országodba befogadj!
+
+========================================================================
+ÉE/170: Ez nagy szentség valóban
+
+1. Ez nagy szentség valóban,
+ ezt imádjuk mindnyájan,
+ melyet Jézus nekünk hagyott
+ testamentomban.
+2. Jelen van itt test és vér,
+ minden kinccsel ez felér,
+ ha elhagyjuk vétkeinket,
+ minden jót ígér.
+3. Állj mellettünk, nagy Isten,
+ titkos kenyér színében,
+ légy irgalmas, és meghallgass
+ minden ínségben.
+4. Háborútól oltalmazz,
+ híveidnek irgalmazz,
+ betegséget, éhínséget
+ tőlünk távoztass!
+5. Tebenned van reményünk,
+ életünk és épségünk,
+ egyedül csak téged kérünk,
+ légy segítségünk!
+6. Add, hogy készen lehessünk,
+ boldog halált érhessünk,
+ e világból, ha kiszólítsz,
+ véled lehessünk!
+
+========================================================================
+ÉE/171: Üdvözlégy, Oltáriszentség
+
+1. Üdvözlégy, Oltáriszentség,
+ csodálatos szent Istenség!
+ Téged szívből mind imádunk,
+ oltárodnak trónján áldunk.
+ Üdvözlégy, szent Szakramentom!
+ Százezerszer, meg ezerszer, én Jézusom!
+2. Ha szenteknek nagy szívével,
+ angyaloknak lángnyelvével
+ köszönthetne minden lélek,
+ méltón úgy sem dicsérnének.
+ Üdvözlégy, szent Szakramentom!
+ Százezerszer, meg ezerszer, én Jézusom!
+3. Öntsd szívembe olajodat,
+ égesd benne világodat,
+ nagy Szentség, ó térj be hozzám,
+ mert szívem csak téged kíván.
+ Üdvözlégy, szent Szakramentom!
+ Százezerszer, meg ezerszer, én Jézusom!
+4. Életünknek végóráján,
+ hogy ne ejtsen meg a Sátán,
+ te légy erős én gyámolom,
+ mert csak nálad van oltalom.
+ Üdvözlégy, szent Szakramentom!
+ Százezerszer, meg ezerszer, én Jézusom!
+
+========================================================================
+ÉE/172: Szent vagy, Uram
+
+1. Szent vagy, Uram, szent vagy!
+ Minden fölött szent vagy!
+ Jézus kenyér színében,
+ az Oltáriszentségben!
+2. Térdet, fejet hajtok,
+ néked áldást mondok,
+ hiszem, itt vagy valóban
+ e nagy Szakramentomban!
+3. Tebenned remélek,
+ szívemből szeretlek,
+ készebb vagyok meghalni,
+ mint téged megbántani.
+
+========================================================================
+ÉE/173: Üdvözlégy, ó, drágalátos
+
+1. Üdvözlégy, ó drágalátos nagy Szentség,
+ hol jelen van istenség és emberség.
+ Kérünk, ne hagyd híveidet, bűnre hajló népeidet,
+ hanem adjad kegyelmedet, nagy Fölség!
+2. Kegyes voltál mennyből alászállani,
+ szent véredet egy cseppig kiontani,
+ ó ne essék hát hiába szenvedésed drága ára,
+ hanem a mi szegény lelkünk javára!
+3. Mindnyájan, kik egyek vagyunk a hitben,
+ imádunk és áldunk e nagy Szentségben,
+ mint megváltó Istenünket, ki táplálja mi lelkünket,
+ maradj velünk, és üdvözíts bennünket!
+
+========================================================================
+ÉE/174: Mondj éneket, zengő nyelvem (Pange lingua gloriosi)
+
+1. Mondj éneket zengő nyelvem, szentséges Úr testének,
+ adjál hálát, buzgó lelkem, drágalátos vérének,
+ amit vett a Szűz méhéből, s ád emberi nemzetnek.
+2. Azért ezt a nagy Szentséget leborulva imádjuk,
+ Teste s Vére a Krisztusnak mert itt vagyon, jól tudjuk,
+ ha elménkkel föl nem fogjuk, hitünkkel megfoghatjuk.
+3. Az Atyának és Fiúnak dicséret és tisztesség,
+ Szentlélekkel egyetemben áldás, örök dicsőség,
+ Háromságban egy szent Istent áldjon minden nemzetség.
+
+========================================================================
+ÉE/175: Áldunk téged, ó angyali kenyér
+
+1. Áldunk téged, ó angyali kenyér,
+ váltságunkért adatott drága bér.
+ Szent vagy, szent vagy, szent vagy,
+ te mindennél szentebb vagy!
+ Légy áldott e szentségben,
+ rejtve kenyér színében.
+2. Kérünk téged, irgalmas nagy Isten,
+ áldj meg minket, s hallgass meg kegyesen.
+ Szent vagy, szent vagy, szent vagy,
+ te mindennél szentebb vagy!
+ Légy áldott e szentségben,
+ rejtve kenyér színében.
+
+========================================================================
+ÉE/176: Most az Úr Krisztusnak
+
+1. Most az Úr Krisztusnak drágalátos teste,
+ itt felemeltetett szentséges szent vére.
+ A kenyér s bor színe alatt ez a titkos nagy áldozat.
+ Jézust magasztaljuk, szent! szent! szent! kiáltjuk.
+2. Imádunk tégedet, ó drága nagy Szentség,
+ melyben elrejtve van istenség s emberség.
+ A kenyér s bor színe alatt ez a titkos nagy áldozat.
+ Jézust magasztaljuk, szent! szent! szent! kiáltjuk.
+3. Kérünk, ó Jézusunk, add, hogy hozzád térjünk,
+ szent tested- s véredben méltóképp résztvegyünk.
+ Így hisszük, hogy majd menny-égben, mint most kenyér s bor színében
+ nevedet áldhatjuk, szent, szent, szent, kiáltjuk.
+
+========================================================================
+ÉE/177: Most lett a kenyér
+
+1. Most lett a kenyér Krisztus tgestévé,
+ most vált a színbor Jézus vérévé.
+ Test már a kenyér, a bor igaz vér,
+ hiszem ezt, ámbár elmémbe nem fér.
+2. Itt az istenség az emberséggel
+ ím, megegyezett nagy szövetséggel.
+ Ebben reménylek, amíg csak élek,
+ ebben erősíts, Jézusom, kérlek.
+
+========================================================================
+ÉE/178: Üdvözlégy, üdvösséges Ostya
+
+1. Üdvözlégy, üdvösséges Ostya,
+ Isten tiszta Anyjának Fia,
+ mostan kenyérszínben látlak,
+ igaz Isten, megvallak.
+2. Mert te vagy igaz Üdvözítő,
+ mind e világ bűneit törlő,
+ igaz Istennek egy Fia,
+ ki keresztfán meghala.
+3. Ó Uram, nem vagyok én méltó,
+ hogy házamba költözni légy jó,
+ mondjad csak egy szóval nékem,
+ s meggyógyul az én lelkem.
+
+========================================================================
+ÉE/179: Üdvözlégy Felség, Oltáriszentség
+
+1. Üdvözlégy Felség, Oltáriszentség, drága vendégség!
+ Ó drága szép kincs, bűntől megtisztíts, jóra felindíts!
+2. Elrejtett Isten kenyér s bor színben, édes Jézusunk!
+ Ó igaz manna, hitünknek titka, szép ajándéka!
+3. Krisztusnak teste, szentséges vére, légy te orvosunk!
+ Tarts meg a hitben, erős reményben, szent szerelmedben!
+4. Mennyei bőség, szellemi hévség, józan vendégség!
+ Kik méltón esznek, téged élveznek, életet vesznek.
+5. Legyen tenéked kedves ez ének, áldott Jézusunk!
+ Áldás az égnek, három Személynek, egy Istenségnek!
+
+========================================================================
+ÉE/180: Ó, áldott szent Istenem
+
+1. Ó áldott szent Istenem,
+ az Oltáriszentségben,
+ édes Jézus!
+ Téged szívem úgy kíván,
+ tégedet én lelkem vár,
+ édes Jézus, édes Jézus!
+2. Ó lelkem, szent Jegyesem,
+ méltán ki-ki szeressen,
+ édes Jézus!
+ Minden kincset megvessen,
+ csak tégedet keressen,
+ édes Jézus, édes Jézus!
+3. Maradj nálam kevéssé,
+ tedd a szívem tieddé,
+ édes Jézus!
+ Légy te nékem gyámolom,
+ bűnök ellen oltalom,
+ édes Jézus, édes Jézus!
+
+========================================================================
+ÉE/181: Mennyegzős köntösbe öltözködjetek
+
+1. Mennyegzős köntösbe öltözködjetek,
+ szívben megtörődve ide jöjjetek.
+ Jézus étkül adja nékünk itt magát,
+ nincs, aki felfogja ezt a nagy csodát.
+2. Szent angyalok itten a vendéghívók,
+ általuk az Isten téged is hívott.
+ Ó angyali asztal kenyere, s bora:
+ jövünk már tehozzád, drága lakoma!
+3. Jézus, lelkünk vágya, szívünk öröme,
+ elménk boldogsága, ég s föld gyönyöre!
+ Jöjj, mennyei szentség, jöjj, nagy Hatalom,
+ elrejtezett Isten, élő Irgalom!
+
+========================================================================
+ÉE/182: Üdvözlégy, édes Jézusunk
+
+1. Üdvözlégy, édes Jézusunk!
+ Erős hittel itt megvallunk,
+ e szentségben mi imádunk,
+ Istenünknek magasztalunk.
+2. Te vagy világ Megváltója,
+ mennyországnak megnyitója,
+ éhes lelkünk táplálója,
+ bús szívünknek orvoslója.
+3. Édes Jézus, neked élek,
+ édes Jézus, neked halok,
+ életemben, halálomban
+ édes Jézus, tied vagyok.
+
+========================================================================
+ÉE/183: Ó, szentséges, ó kegyelmes
+
+1. Ó szentséges, ó kegyelmes, édességes Jézusom!
+ Dicsértessél, tiszteltessél, én megváltó Krisztusom!
+ Szállj be szívem hajlékába, jöjj be lelkem pitvarába,
+ ott nyugodjál, ott lakozzál, soha el se távozzál!
+2. Angyaloknak tápláléka, jöjj el e szent ostyában!
+ Jöjj, kegyelem áradása egy kicsinyke pohárban!
+ Táplálj az Úr szent testével, itass omló dús vérével,
+ engedj mindig nála lennem, ő maradjon énbennem!
+
+========================================================================
+ÉE/184: Édes Jézus, én szerelmem
+
+1. Édes Jézus, én szerelmem, ó mily nagyon szeretlek.
+ Te vagy kincsem és mindenem, hű szívembe elrejtlek.
+ Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.
+2. Édes Jézus, mivel téged minden felett szeretlek,
+ minden kincset és örömet érted, Jézus, megvetek.
+ Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.
+3. Ahol leszek, Jézus, téged óhajtlak és kiáltlak;
+ boldog leszek, ha elérlek, boldogabb, ha megtartlak.
+ Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.
+4. Benned bízom, fohászkodom, te is szeress engemet.
+ Jézus, ne hagyj, velem maradj, hívd a mennybe lelkemet.
+ Jöjj el, jöjj el, siess már, Jézus, téged szívem vár.
+
+========================================================================
+ÉE/185: Itt a perc, az áldott
+
+1. Itt a perc, az áldott, melyre szívem vágyott,
+ lelkem íme tárva, Üdvözítőm várja.
+ Jöjj szívembe, kérlek, csak tebenned élek,
+ hogyha itt vagy nálam, telve minden vágyam.
+2. Add, hogy el ne térjek, ösvényeden éljek,
+ kerüljem a vétket, szolgáljalak téged.
+ Minden kísértésben szent malasztod védjen,
+ hogy a harcot álljam, életben, halálban.
+
+========================================================================
+ÉE/186: Jézusom isteni teste
+
+1. Jézusom isteni teste,
+ színed elé jövök esdve,
+ lelkem az égbe vezesd be!
+2. Jézusom, isteni Bárány,
+ égi kegyelmeid árán
+ menny örök élete vár rám.
+
+========================================================================
+ÉE/187: Győzelemről énekeljen (Az 1938. évi eukarisztikus kongresszus indulója)
+
+1. Győzelemről énekeljen napkelet és napnyugat,
+ millió szív összecsengjen, magasztalja az Urat!
+ Krisztus újra földre szállott, vándorlásunk társa lett,
+ mert szerette a világot, kenyérszínbe rejtezett.
+ Krisztus kenyér- s bor színében Úr s Király a föld felett:
+ forrassz eggyé békességben minden népet s nemzetet!
+2. Egykor értünk testet öltött, kisgyermekként jött közénk,
+ a keresztfán vére ömlött váltságunknak béreként.
+ Most az oltár Golgotáján újra itt a drága vér,
+ áldozat az Isten-Bárány, Krisztus teste a kenyér.
+ Krisztus kenyér- s bor színében Úr s Király a föld felett:
+ forrassz eggyé békességben minden népet s nemzetet!
+3. Zúgjon hát a hálaének, szálljon völgyön, tengeren,
+ a szeretet Istenének dicsőség és üdv legyen!
+ Az egész föld legyen oltár, virág rajta a szívünk,
+ minden dalunk zengő zsoltár, tömjénillat a hitünk.
+ Krisztus kenyér- s bor színében Úr s Király a föld felett:
+ forrassz eggyé békességben minden népet s nemzetet!
+4. István király árva népe, te is hajtsd meg homlokod,
+ borulj térdre, szórd elébe minden gondod, bánatod!
+ A kereszt volt ezer éven reménységed oszlopa,
+ most is Krisztus jele légyen jobb jövődnek záloga!
+ Krisztus kenyér- s bor színében Úr s Király a föld felett:
+ forrassz eggyé békességben minden népet s nemzetet!
